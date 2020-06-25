@@ -22,7 +22,10 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 ## Daily Progress Table
 |Day|Progress|
 |----|----|
-|0|
+|1|✅ Twitch stream| 
+| |✅ Tweet| 
+| |✅ Read Ch 6 of CftGu| 
+|2|
 
 ## Reaching my Goals
 |Goal|Progress|
@@ -30,5 +33,6 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 |Commit to Athens source code|0/1|
 |100 4Clojure problems|46/100|
 |Daily Twitch streams|1/35|
+|Daily Tweets|1/35|
 |Clojure from the Ground Up|4/8|
 |Learn Datalog Today|4/8|
