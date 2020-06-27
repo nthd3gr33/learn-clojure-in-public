@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/256px-Clojure_logo.svg.png">
+</p>
+
 # Learn Clojure in Public
 > "The beautiful thing about learning is that no one can take it away from you."
 ~ B. B. King
@@ -11,8 +15,10 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 - Main goal is >= 1 commit to [Athens source code](https://github.com/athensresearch/athens)
 - Member of [4th Cohort (Team Seneca)](https://github.com/athensresearch/ClojureFam/blob/master/doc/clojurefam-rosters.md#4th-cohort-roster-group-study) in ClojureFam
 
-## Goals
+## Only Goal that Matters
 - [ ] At least 1 commit to [Athens source code](https://github.com/athensresearch/athens)
+
+## Other Goals
 - [ ] Finish 46 more [4Clojure](http://www.4clojure.com/user/nthd3gr33) problems (totaling 100)
 - [ ] Daily [Twitch streams](https://www.twitch.tv/nthd3gr33) of learning Clojure
 - [ ] Daily [tweets](https://twitter.com/nthd3gr33) about interesting things I learned or built
@@ -29,14 +35,18 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 |2|✅ Twitch stream| 
 | |✅ Tweet| 
 | |✅ Read Ch 3 of CftBaT|
+|3|✅ Twitch stream|
+| |✅ Tweet|
+| |✅ Pair programming|
+| |✅ 4Clojure problems|
 
 ## Reaching my Goals
 |Goal|Progress|
 |----|----|
 |Commit to Athens source code|0/1|
-|100 4Clojure problems|46/100|
-|Daily Twitch streams|2/35|
-|Daily Tweets|2/35|
+|100 4Clojure problems|49/100|
+|Daily Twitch streams|3/35|
+|Daily Tweets|3/35|
 |Clojure from the Ground Up|4/8|
 |Clojure for the Brave and True|1/11|
 |Learn Datalog Today|4/8|
