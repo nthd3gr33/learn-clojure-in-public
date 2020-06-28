@@ -39,14 +39,18 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 | |✅ Tweet|
 | |✅ Pair programming|
 | |✅ 4Clojure problems|
+|4|✅ Twitch stream|
+| |✅ Tweet|
+| |✅ Clojure under the hood|
+| |✅ Started first clr project|
 
 ## Reaching my Goals
 |Goal|Progress|
 |----|----|
 |Commit to Athens source code|0/1|
-|100 4Clojure problems|49/100|
-|Daily Twitch streams|3/35|
-|Daily Tweets|3/35|
+|100 4Clojure problems|55/100|
+|Daily Twitch streams|4/35|
+|Daily Tweets|4/35|
 |Clojure from the Ground Up|4/8|
 |Clojure for the Brave and True|1/11|
 |Learn Datalog Today|4/8|
