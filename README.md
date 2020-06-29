@@ -43,6 +43,10 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 | |✅ Tweet|
 | |✅ Clojure under the hood|
 | |✅ Started first clr project|
+|5|✅ Twitch stream|
+| |✅ Tweet|
+| |✅ Clojure APIs|
+| |✅ Read Ch 12 of CftBaT|
 
 ## Reaching my Goals
 |Goal|Progress|
@@ -52,5 +56,5 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 |Daily Twitch streams|4/35|
 |Daily Tweets|4/35|
 |Clojure from the Ground Up|4/8|
-|Clojure for the Brave and True|1/11|
+|Clojure for the Brave and True|2/11|
 |Learn Datalog Today|4/8|
