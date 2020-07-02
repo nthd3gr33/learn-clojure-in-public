@@ -47,14 +47,21 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 | |✅ Tweet|
 | |✅ Clojure APIs|
 | |✅ Read Ch 12 of CftBaT|
+|6|[ ] Twitch stream|
+| |✅ Tweet|
+| |[ ] Clojure study|
+|7|✅ Twitch stream|
+| |✅ Tweet|
+| |✅ Parts 5, 6 of Datalog|
+| |✅ Study libraries we use|
 
 ## Reaching my Goals
 |Goal|Progress|
 |----|----|
 |Commit to Athens source code|0/1|
 |100 4Clojure problems|55/100|
-|Daily Twitch streams|4/35|
-|Daily Tweets|4/35|
+|Daily Twitch streams|6/35|
+|Daily Tweets|7/35|
 |Clojure from the Ground Up|4/8|
 |Clojure for the Brave and True|2/11|
-|Learn Datalog Today|4/8|
+|Learn Datalog Today|6/9|
