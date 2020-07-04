@@ -24,7 +24,7 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 - [ ] Daily [tweets](https://twitter.com/nthd3gr33) about interesting things I learned or built
 - [ ] Finish 8 chapters of [Clojure from the Ground Up](https://aphyr.com/tags/Clojure-from-the-ground-up)
 - [ ] Finish 11 chapters of [Clojure for the Brave and True](https://www.braveclojure.com/)
-- [ ] Finish [Learn Datalog Today](http://www.learndatalogtoday.org/)
+- [ ] Finish 9 sections of [Learn Datalog Today](http://www.learndatalogtoday.org/)
 
 ## Daily Progress Table
 |Day|Progress|
@@ -54,14 +54,18 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 | |✅ Tweet|
 | |✅ Parts 5, 6 of Datalog|
 | |✅ Study libraries we use|
+|8|✅ Twitch stream|
+| |✅ Tweet|
+| |✅ Reagent docs and tutorial|
+| |✅ Re-frame docs and tutorial|
 
 ## Reaching my Goals
 |Goal|Progress|
 |----|----|
 |Commit to Athens source code|0/1|
 |100 4Clojure problems|55/100|
-|Daily Twitch streams|6/35|
-|Daily Tweets|7/35|
+|Daily Twitch streams|7/35|
+|Daily Tweets|8/35|
 |Clojure from the Ground Up|4/8|
 |Clojure for the Brave and True|2/11|
 |Learn Datalog Today|6/9|
