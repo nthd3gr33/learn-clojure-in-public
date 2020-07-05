@@ -58,6 +58,14 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 | |✅ Tweet|
 | |✅ Reagent docs and tutorial|
 | |✅ Re-frame docs and tutorial|
+|9|✅ Twitch stream|
+| |✅ Tweet|
+| |✅ Athens issue|
+| |✅ ClojureScript|
+|10|✅ Twitch stream|
+| |✅ Tweet|
+| |✅ Study Re-frame docs|
+| |✅ ClojureScript|
 
 ## Reaching my Goals
 |Goal|Progress|
