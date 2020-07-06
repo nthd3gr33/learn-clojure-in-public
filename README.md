@@ -26,6 +26,17 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 - [ ] Finish 11 chapters of [Clojure for the Brave and True](https://www.braveclojure.com/)
 - [ ] Finish 9 sections of [Learn Datalog Today](http://www.learndatalogtoday.org/)
 
+## Reaching my Goals
+|Goal|Progress|
+|----|----|
+|Commit to Athens source code|0/1|
+|100 4Clojure problems|62/100|
+|Daily Twitch streams|7/35|
+|Daily Tweets|8/35|
+|Clojure from the Ground Up|6/8|
+|Clojure for the Brave and True|2/11|
+|Learn Datalog Today|6/9|
+
 ## Daily Progress Table
 |Day|Progress|
 |----|----|
@@ -66,14 +77,9 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 | |✅ Tweet|
 | |✅ Study Re-frame docs|
 | |✅ ClojureScript|
+|11|✅ Twitch stream|
+| |✅ Tweet|
+| |✅ 7 4Clojure problems|
+| |✅ Chs 7, 8 of CftGu|
 
-## Reaching my Goals
-|Goal|Progress|
-|----|----|
-|Commit to Athens source code|0/1|
-|100 4Clojure problems|55/100|
-|Daily Twitch streams|7/35|
-|Daily Tweets|8/35|
-|Clojure from the Ground Up|4/8|
-|Clojure for the Brave and True|2/11|
-|Learn Datalog Today|6/9|
+
