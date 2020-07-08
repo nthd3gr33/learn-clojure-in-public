@@ -81,5 +81,8 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 | |✅ Tweet|
 | |✅ 7 4Clojure problems|
 | |✅ Chs 7, 8 of CftGu|
-
+|12|✅ Twitch stream|
+| |✅ Tweet|
+| |✅ Worked on Athens issues|
+| |✅ Stylefy, Garden, etc|
 
