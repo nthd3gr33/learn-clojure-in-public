@@ -16,7 +16,10 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 - Member of [4th Cohort (Team Seneca)](https://github.com/athensresearch/ClojureFam/blob/master/doc/clojurefam-rosters.md#4th-cohort-roster-group-study) in ClojureFam
 
 ## Only Goal that Matters
-- [ ] At least 1 commit to [Athens source code](https://github.com/athensresearch/athens)
+- [x] At least 1 commit to [Athens source code](https://github.com/athensresearch/athens)
+
+## New Goal that Matters
+- [ ] At least 5 commits to [Athens source code](https://github.com/athensresearch/athens) by August 1st
 
 ## Other Goals
 - [ ] Finish 46 more [4Clojure](http://www.4clojure.com/user/nthd3gr33) problems (totaling 100)
@@ -29,13 +32,13 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 ## Reaching my Goals
 |Goal|Progress|
 |----|----|
-|Commit to Athens source code|0/1|
+|Commit to Athens source code|1/5|
 |100 4Clojure problems|62/100|
-|Daily Twitch streams|10/35|
-|Daily Tweets|11/35|
+|Daily Twitch streams|12/35|
+|Daily Tweets|13/35|
 |Clojure from the Ground Up|6/8|
 |Clojure for the Brave and True|2/11|
-|Learn Datalog Today|6/9|
+|Learn Datalog Today|9/9|
 
 ## Daily Progress Table
 |Day|Progress|
@@ -85,4 +88,7 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 | |✅ Tweet|
 | |✅ Worked on Athens issues|
 | |✅ Stylefy, Garden, etc|
-
+|13|✅ Twitch stream|
+| |✅ Tweet|
+| |✅ 1st Team Commit|
+| |✅ Parts 7-9 of Datalog|
