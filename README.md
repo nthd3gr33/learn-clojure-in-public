@@ -37,7 +37,7 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 |Daily Twitch streams|12/35|
 |Daily Tweets|13/35|
 |Clojure from the Ground Up|6/8|
-|Clojure for the Brave and True|2/11|
+|Clojure for the Brave and True|3/11|
 |Learn Datalog Today|9/9|
 
 ## Daily Progress Table
@@ -92,3 +92,7 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 | |✅ Tweet|
 | |✅ 1st Team Commit|
 | |✅ Parts 7-9 of Datalog|
+|14|✅ Twitch stream|
+| |✅ Tweet|
+| |✅ Ch 4 of Brave Clojure|
+| |✅ 3 4Clojure problems|
