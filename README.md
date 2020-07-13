@@ -96,3 +96,10 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 | |✅ Tweet|
 | |✅ Ch 4 of Brave Clojure|
 | |✅ 3 4Clojure problems|
+|15|[ ]Twitch stream|
+| |✅ Tweet|
+| |[ ]Clojure study|
+|16|✅ Twitch stream|
+| |✅ Tweet|
+| |✅ 2 4 Clojure problems|
+| |✅ Brave Clojure review|
