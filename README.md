@@ -103,6 +103,11 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 | |✅ Tweet|
 | |✅ 2 4 Clojure problems|
 | |✅ Brave Clojure review|
-|16|✅ Twitch stream|
+|17|✅ Twitch stream|
 | |✅ Tweet|
 | |✅ Work on Athens issue|
+|18|✅ Twitch stream|
+| |✅ Tweet|
+| |✅ 2 4Clojure problems|
+| |✅ Studying past Athens issues|
+
