@@ -34,8 +34,8 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 |----|----|
 |Commit to Athens source code|1/5|
 |100 4Clojure problems|72/100|
-|Daily Twitch streams|21/35|
-|Daily Tweets|23/35|
+|Daily Twitch streams|22/35|
+|Daily Tweets|24/35|
 |Clojure from the Ground Up|6/8|
 |Clojure for the Brave and True|3/11|
 |Learn Datalog Today|9/9|
@@ -127,3 +127,6 @@ Learning Clojure in Public to hold myself accountable and to promote the [#Learn
 | |✅ Tweet|
 | |✅ PR awaiting review|
 | |✅ Started re-frame project|
+|24|✅ Twitch stream|
+| |✅ Tweet|
+| |✅ Worked on next issue - pages!|
